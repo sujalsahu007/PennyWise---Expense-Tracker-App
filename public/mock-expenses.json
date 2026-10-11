@@ -1,0 +1,9 @@
+[
+  {"id":"seed-1","title":"Weekly groceries","amount":1850,"category":"Food & Dining","date":"2026-10-11","note":"Vegetables, fruit and essentials","type":"expense"},
+  {"id":"seed-2","title":"Metro recharge","amount":500,"category":"Transport","date":"2026-10-10","note":"Monthly commute","type":"expense"},
+  {"id":"seed-3","title":"Freelance landing page","amount":6500,"category":"Income","date":"2026-10-09","note":"Website project payment","type":"income"},
+  {"id":"seed-4","title":"Coffee with friends","amount":320,"category":"Food & Dining","date":"2026-10-08","note":"Cafe","type":"expense"},
+  {"id":"seed-5","title":"Internet bill","amount":799,"category":"Bills & Utilities","date":"2026-10-06","note":"Home broadband","type":"expense"},
+  {"id":"seed-6","title":"Course subscription","amount":999,"category":"Education","date":"2026-10-04","note":"Monthly learning plan","type":"expense"},
+  {"id":"seed-7","title":"Gym membership","amount":1200,"category":"Health","date":"2026-10-02","note":"Monthly membership","type":"expense"}
+]
